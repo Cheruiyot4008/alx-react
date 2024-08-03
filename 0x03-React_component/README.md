@@ -1,1 +1,1 @@
-This is my 0x03-React_componenit project
+This is my 0x03-React_component project
